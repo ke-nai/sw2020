@@ -20,15 +20,6 @@
 - ITEC402005 종합설계프로젝트1,2 / 2020년 1,2학기 / 문병인
 
 ## 2. 자율과제형
-### 학습, 정리
-[VBA 정리](https://github.com/ke-nai/VBA)
-- 수행기간: 2019.10 ~ 필요시 계속 업데이트
-
-[C 정리](https://github.com/ke-nai/C)
-- 수행기간: 2019.11 ~ 필요시 계속 업데이트
-
-[안드로이드 정리](https://github.com/ke-nai/Android)
-- 수행기간: 2020.07 ~ 필요시 계속 업데이트
 
 ### 프로젝트
 #### VBA
@@ -65,3 +56,12 @@
 [Private Mail Translator](https://github.com/ke-nai/PrivateMailTranslator/edit/main/README.md)
 - 수행기간: 2020.07 ~ 2020.09
 
+### 학습, 정리
+[VBA 정리](https://github.com/ke-nai/VBA)
+- 수행기간: 2019.10 ~ 필요시 계속 업데이트
+
+[C 정리](https://github.com/ke-nai/C)
+- 수행기간: 2019.11 ~ 필요시 계속 업데이트
+
+[안드로이드 정리](https://github.com/ke-nai/Android)
+- 수행기간: 2020.07 ~ 필요시 계속 업데이트
