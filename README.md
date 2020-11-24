@@ -7,7 +7,7 @@
 #### [2016년 자바 프로그래밍 팀 프로젝트 : Word Teacher](https://github.com/ke-nai/JAVA-2016TeamProject-Word_Teacher)
 - COMP217007 자바프로그래밍 / 2016년 1학기 / 장길진
 
-#### [2019년 논리 회로 설계 팀 프로젝트 : Shooter](https://github.com/ke-nai/JAVA-2016TeamProject-Word_Teacher)
+#### [2019년 논리 회로 설계 팀 프로젝트 : Shooter](https://github.com/ke-nai/2019TeamProject-Shooter)
 - COMP311002 자바프로그래밍 / 2019년 2학기 / 김지훈
 
 #### [2019년 알고리즘 과제](https://github.com/ke-nai/C-2019AlgorithmHW)
