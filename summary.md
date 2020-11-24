@@ -29,6 +29,7 @@
 - 수행기간: 2020.07 ~ 필요시 계속 업데이트
 
 ### 프로젝트
+#### VBA
 [VBA 숫자 퍼즐 게임](https://github.com/ke-nai/VBA-Number_Puzzle)
 - 수행기간: 2018.01
 
@@ -41,12 +42,26 @@
 [VBA 오델로 게임](https://github.com/ke-nai/VBA-Othello)
 - 수행기간: 2018.04
 
-[Name Changer for LosslessCut](https://github.com/ke-nai/C-Name_Changer)
-- 수행기간: 2020.05
+[스터디 카페 월간 현황 자동화](https://github.com/ke-nai/MonthlyAccountBook)
+- 수행기간: 2019.04 ~ 2019.07
 
+[스터디 카페 예약 관리 자동화](https://github.com/ke-nai/ReservationManager)
+- 수행기간: 2019.07 ~ 2019.11
+
+[제약 회사 온습도 관리 자동화](https://github.com/ke-nai/TemperatureAndHumidityManager/blob/main/README.md)
+- 수행기간: 2019.08
+
+#### Java Script
 [Memo Script For DCinside](https://github.com/ke-nai/JavaScript-MemoScriptForDCinside)
 - 수행기간: 2018.12 제작, 2020.02 업데이트
 
+#### C
+[Name Changer for LosslessCut](https://github.com/ke-nai/C-Name_Changer)
+- 수행기간: 2020.05
+
+#### Android
+[Private Mail Translator](https://github.com/ke-nai/PrivateMailTranslator/edit/main/README.md)
+- 수행기간: 2020.07 ~ 2020.09
 
 
 
