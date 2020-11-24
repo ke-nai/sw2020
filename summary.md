@@ -11,6 +11,9 @@
 #### [2019년 알고리즘 과제](https://github.com/ke-nai/C-2019AlgorithmHW)
 - COMP319001 알고리즘1 / 2019년 2학기 / 장길진
 
+#### [2020년 SoC 설계 팀 프로젝트: Othello](https://github.com/ke-nai/2020TeamProject-Othello/blob/main/README.md)
+- ITEC412001 SoC설계 및 프로그래밍 / 2020년 1학기 / 문병인
+
 ## 2. 자율과제형
 ### 학습, 정리
 [VBA 정리](https://github.com/ke-nai/VBA)
