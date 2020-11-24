@@ -8,6 +8,9 @@
 #### [2019년 논리 회로 설계 팀 프로젝트 : Shooter](https://github.com/ke-nai/JAVA-2016TeamProject-Word_Teacher)
 - COMP311002 자바프로그래밍 / 2019년 2학기 / 김지훈
 
+#### [2019년 알고리즘 과제](https://github.com/ke-nai/C-2019AlgorithmHW)
+- COMP319001 알고리즘1 / 2019년 2학기 / 장길진
+
 ## 2. 자율과제형
 ### 학습, 정리
 [VBA 정리](https://github.com/ke-nai/VBA)
@@ -31,6 +34,8 @@
 
 [VBA 오델로 게임](https://github.com/ke-nai/VBA-Othello)
 - 수행기간: 2018.04 ~ 2018.05
+
+
 
 
 
