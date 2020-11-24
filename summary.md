@@ -17,29 +17,32 @@
 ## 2. 자율과제형
 ### 학습, 정리
 [VBA 정리](https://github.com/ke-nai/VBA)
-- 수행기간: 2018.08 ~ 필요시 계속 업데이트
+- 수행기간: 2019.10 ~ 필요시 계속 업데이트
 
 [C 정리](https://github.com/ke-nai/C)
-- 수행기간: 2018.08 ~ 필요시 계속 업데이트
+- 수행기간: 2019.11 ~ 필요시 계속 업데이트
 
 [안드로이드 정리](https://github.com/ke-nai/Android)
-- 수행기간: 2020.05 ~ 필요시 계속 업데이트
+- 수행기간: 2020.07 ~ 필요시 계속 업데이트
 
 ### 프로젝트
 [VBA 숫자 퍼즐 게임](https://github.com/ke-nai/VBA-Number_Puzzle)
-- 수행기간: 2018.01 ~ 2018.02
+- 수행기간: 2018.01
 
 [VBA 블록 깨기 게임](https://github.com/ke-nai/VBA-Block_Break)
-- 수행기간: 2018.02 ~ 2018.03
+- 수행기간: 2018.02
 
 [VBA 펜 축구 게임](https://github.com/ke-nai/VBA-Pen_Soccer)
-- 수행기간: 2018.03 ~ 2018.04
+- 수행기간: 2018.03
 
 [VBA 오델로 게임](https://github.com/ke-nai/VBA-Othello)
-- 수행기간: 2018.04 ~ 2018.05
+- 수행기간: 2018.04
 
+[Name Changer for LosslessCut](https://github.com/ke-nai/C-Name_Changer)
+- 수행기간: 2020.05
 
-
+[Memo Script For DCinside](https://github.com/ke-nai/JavaScript-MemoScriptForDCinside)
+- 수행기간: 2018.12 제작, 2020.02 업데이트
 
 
 
